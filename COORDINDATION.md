@@ -14,3 +14,5 @@ a glorified todo list.
   - [] ONBOARDING.md
   - [] HIRING.md
   - [] README.md
+- [] xmtp-hooks dependency updates, add some smoke tests
+- [] bootstrap xmtp-proxy

@@ -15,9 +15,9 @@ maintainer.
   - A closed-domain question answering system on the Relay Network.
   - [https://github.com/relaycc/robot](https://github.com/relaycc/robot)
   - [@killthebuddh4](https://github.com/killthebuddh4)
-- `xmtp-proxy`
-  - An XMTP client proxy and library for multiplexing Node.js XMTP clients.
-  - [https://github.com/relaycc/xmtp-proxy](https://github.com/relaycc/xmtp-proxy)
+- `xmtp-bridge`
+  - Deploy an XMTP adapter for any HTTP API.
+  - [https://github.com/relaycc/xmtp-bridge](https://github.com/relaycc/xmtp-bridge)
   - [@killthebuddh4](https://github.com/killthebuddh4)
 - `xmtp-hooks`
   - A TypeScript React hooks library for working with the XMTP JavaScript client.
